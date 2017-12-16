@@ -7,15 +7,6 @@
 #include <string.h>
 #include <pthread.h>
 
-//#include <tawstd/log.h>
-//#include <tawlicense.h>
-//#include <tawstd/zymap.h>
-//#include <conntrack/conntrack.h>
-//#include <tawstd/log.h>
-
-
-//#include <global.h>
-
 
 /*
 typedef char CHAR;                

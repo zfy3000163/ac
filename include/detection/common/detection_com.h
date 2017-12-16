@@ -3,10 +3,6 @@
 #define _DETECTION_COM_H__
 #include "detection/common/detection_pub.h"
 
-
-typedef struct taw_conn SESSION_DETECTIONDETECTINFO_S;
-
-
 #define DETECTION_OK   0
 #define DETECTION_ERR 1
 
